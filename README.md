@@ -1,1 +1,1 @@
-# measurement-mini-01
+Measurement-first mini-project: raw data + metadata + uncertainty + report.
